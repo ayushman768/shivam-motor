@@ -1,0 +1,22 @@
+/*--banner-background-custom*/
+
+.gallery-bg {
+    background-image: url(../img/bafna_website_Banner_13.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+.gallery-page>h1 {
+    padding: 10px 0px 0px 30px;
+}
+
+
+
+/*--/Gallery-banner-background-custom*/
+.gallery_img>img{
+	width:100%!important;
+	display:block;
+}

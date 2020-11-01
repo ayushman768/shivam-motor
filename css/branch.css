@@ -1,0 +1,21 @@
+/*--banner-background-custom*/
+
+.branch-bg {
+    background-image: url(../img/resize-1604042197308941424IMG20190205WA0025.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+/*--banner-background-custom*/
+
+
+/* branch-page-custom */
+
+   .branch-page>h1 {
+    padding: 10px 0px 0px 30px;
+}
+/* /branch-page-custom */
+
+
